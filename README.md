@@ -1,18 +1,54 @@
-## A propos de moi 
-Bonjour,
+# Alexandre Sampaio
 
-Moi c'est Alexandre j'ai 27 ans actuellement employés dans une société privée où je suis Déclarant en Douane j'entame une reconversion professionnelle pour être développeur, j'entre en formation avec O Clock le 27 mai pour réaliser mon objectif :)
+Bonjour le monde, jeune développeur de 28 ans 🇫🇷 qui vient de terminer un bootcamp de 8 mois spécialisé en javascript
 
-En attendant ma rentrée je commence à me former en autodicacte avec Open Classroom et d'autres supports j'ai fait de l'HTML/CSS et j'apprends actuellement javascript, je découvre aussi tout doucement Git ^^. J'ai de bonnes bases en anglais mais j'ai pour projet de m'améliorer pour atteindre un bon niveau surtout pour le côté professionnel.
+---
 
-Je n'ai que ça à raconter pour le moment à bientôt !
+## Skills
 
-Hello,
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-My name is Alexandre, I'm 27 years old, currently employed in a private company where I work as a Customs Declarant. I'm embarking on a career change to become a developer. I start training with O'Clock on May 27th to achieve my goal :)
 
-While waiting for my start date, I'm starting to self-study with Open Classroom and other resources. I've learned HTML/CSS, and I'm currently learning JavaScript. I'm also slowly getting acquainted with Git ^^.
+---
 
-I have a good foundation in English, but I plan to improve to reach a proficient level, especially for professional purposes.
+## Ce que je fais en ce moment
+- Je développe un **bot Discord en JavaScript**
+- Je bâtis mon **portfolio personnel**
+- Je participe à un **projet collaboratif** avec d'autres devs passionnés
+- Fun fact : je prends plaisir à souffrir sur CodeWars 💥  
+→ [Mon profil CodeWars](https://www.codewars.com/users/postierDave)
 
-That's all I have to share for now. See you soon!
+---
+
+
+## Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-sampaio-as91/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alexandre.sampaio137@gmail.com)
+
+---
+
+## 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMPAIOAlexandre&layout=compact&theme=default)
+
+
+---
+
+## Pour finir 
+
+- Toujours en train d'apprendre. Toujours prêt à construire quelque chose de nouveau.
+- Des idées d'amélioration sur mes projets, des suggestions, une envie de participer ou de travailler avec moi n'hésitez pas et contactez moi 
+
