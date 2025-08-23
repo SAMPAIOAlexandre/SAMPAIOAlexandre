@@ -1,4 +1,4 @@
-# Alexandre Sampaio
+# Salut moi c'est Alexandre Sampaio
 
 Bonjour le monde, jeune développeur de 28 ans 🇫🇷 qui vient de terminer un bootcamp de 8 mois spécialisé en javascript
 
